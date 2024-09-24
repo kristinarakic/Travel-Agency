@@ -1,0 +1,34 @@
+[
+  {
+    "ID1": 2,
+    "Name1": "Petar",
+    "Surname1": "Petrovic",
+    "Username1": "pera",
+    "Password1": "perapera",
+    "UserType1": "Klijent"
+  },
+  {
+    "ID1": 3,
+    "Name1": "Svetlana",
+    "Surname1": "Raznatovic",
+    "Username1": "Ceca",
+    "Password1": "cecaceca",
+    "UserType1": "Klijent"
+  },
+  {
+    "ID1": 4,
+    "Name1": "",
+    "Surname1": "",
+    "Username1": "",
+    "Password1": "",
+    "UserType1": "Klijent"
+  },
+  {
+    "ID1": 5,
+    "Name1": "Marko",
+    "Surname1": "Petrovic",
+    "Username1": "mare",
+    "Password1": "mare123",
+    "UserType1": "klijent"
+  }
+]

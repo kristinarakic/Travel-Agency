@@ -1,0 +1,62 @@
+[
+  {
+    "ID1": 1,
+    "City1": "Kraljevo",
+    "State1": "Srbija",
+    "Price1": 80.0,
+    "Discount1": 20,
+    "Days1": 9,
+    "NumberOfTravelers1": 14,
+    "Date1": "2024-10-12"
+  },
+  {
+    "ID1": 2,
+    "City1": "Pariz",
+    "State1": "Francuska",
+    "Price1": 250.0,
+    "Discount1": 5,
+    "Days1": 5,
+    "NumberOfTravelers1": 11,
+    "Date1": "2024-10-12"
+  },
+  {
+    "ID1": 3,
+    "City1": "Sarajevo",
+    "State1": "Bosna",
+    "Price1": 150.0,
+    "Discount1": 5,
+    "Days1": 10,
+    "NumberOfTravelers1": 86,
+    "Date1": "2024-10-20"
+  },
+  {
+    "ID1": 4,
+    "City1": "Prariz",
+    "State1": "Francuska",
+    "Price1": 200.0,
+    "Discount1": 10,
+    "Days1": 5,
+    "NumberOfTravelers1": 45,
+    "Date1": "2024-10-26"
+  },
+  {
+    "ID1": 5,
+    "City1": "Derventa",
+    "State1": "Republika Srpska",
+    "Price1": 80.0,
+    "Discount1": 10,
+    "Days1": 4,
+    "NumberOfTravelers1": 25,
+    "Date1": "2024-09-18"
+  },
+  {
+    "ID1": 6,
+    "City1": "Moskva",
+    "State1": "Rusija",
+    "Price1": 200.0,
+    "Discount1": 7,
+    "Days1": 7,
+    "NumberOfTravelers1": 5,
+    "Date1": "2024-09-24"
+  }
+]
